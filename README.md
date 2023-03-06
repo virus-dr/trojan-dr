@@ -1,0 +1,2 @@
+# trojan-dr
+about me ..
